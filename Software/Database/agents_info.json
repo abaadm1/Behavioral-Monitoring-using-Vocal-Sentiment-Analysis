@@ -1,0 +1,26 @@
+{
+  "agents": {
+    "agent-1": {
+      "callURL": "/agent-1",
+      "id": 1,
+      "name": "Sukaina"
+    },
+    "agent-2": {
+      "callURL": "/agent-2",
+      "id": 2,
+      "name": "Aiman"
+    }
+,
+    "agent-3": {
+      "callURL": "/agent-3",
+      "id": 3,
+      "name": "Abaad"
+    }
+,
+    "agent-4": {
+      "callURL": "/agent-4",
+      "id": 4,
+      "name": "Shehroz"
+    }
+  }
+}
