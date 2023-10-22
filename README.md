@@ -4,3 +4,6 @@ A speech emotion recognition model specifically tailored for behavioral monitori
 
 
 Technologies: ReactJs, NumPy, Pandas, Matplotlib, Scikit-Learn, Keras, Flask, Firebase
+
+
+Dataset: https://www.kaggle.com/datasets/abaadmurtaza/urdu-emotion-speech-dataset
